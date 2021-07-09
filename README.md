@@ -44,7 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - [React Native](https://reactnative.dev/)
 
 
-<h2> 🔵 Imagens do projeto</h2>
+<h2> 🔵 Imagens do Projeto</h2>
 
 
 
