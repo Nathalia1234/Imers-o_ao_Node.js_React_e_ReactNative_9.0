@@ -6,14 +6,13 @@
 
 🏁 Tópicos
 =================
- <p>
-  ➡️ 
-  <a href="#sobre">Sobre</a>
-</p>
-<p>
-  ➡️
-  <a href="#tecnologias">Tecnologias Utilizadas</a>
-</p>
+ <!--ts-->
+  ➡️ [Sobre](#Sobre)
+
+
+  ➡️ [Tecnologias Utilizadas](#tecnologias)
+<!--te-->
+
 
 
 <br>
