@@ -2,7 +2,7 @@
   <a> Imersão ao Node.js React e React Native 9.0 </a>
 </h1>
 
-<p align="center">Semana de imersão onde será apresentado o que é, e como utilizar Node.js, React e React Native. </p>
+<p align="center">Semana de imersão online onde pude praticar um pouco com as ferramentas Node.js, React e React Native. </p>
 
 
 <h2>Sistema Operacional</h2>
@@ -44,9 +44,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - [React Native](https://reactnative.dev/)
 
 
-<h4 align="center"> 
-	🚧  Imersão Node.js, React e React Native 🚀 Em construção...  🚧
-</h4>
+<h2> 🔵 Imagens do projeto</h2>
 
 
 
