@@ -38,11 +38,18 @@
 
 <h2> 🔵 Sobre </h2>
 
-Projeto simples onde demonstro como converter moedas BR (Brasileira ) em:
+Projeto simples onde demonstro como converter moedas BR (Real) em:
 
 - Dólar
 - Euro
-- Libra na linguagem python usando a IDE PyCharm. 
+- Libra  esterlina
+- Rupia  indiana
+- Dólar  australiano
+- Dólar  canadense
+- Dólar  cingapura
+- Franco suiço
+- Dólar  Neozelandês
+- Dólar  Hong Kong  na linguagem python usando a IDE PyCharm. 
 
 
 <h2> 🔵 Imagens do Projeto</h2>
