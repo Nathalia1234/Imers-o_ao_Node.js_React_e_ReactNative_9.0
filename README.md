@@ -38,7 +38,11 @@
 
 <h2> 🔵 Sobre </h2>
 
-Projeto simples onde demonstro como converter moedas BR (Brasileira ) em USD (Dólar) na linguagem python usando a IDE PyCharm. 
+Projeto simples onde demonstro como converter moedas BR (Brasileira ) em:
+
+- Dólar
+- Euro
+- Libra na linguagem python usando a IDE PyCharm. 
 
 
 <h2> 🔵 Imagens do Projeto</h2>
