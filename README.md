@@ -54,7 +54,7 @@ Projeto simples onde demonstro como converter moedas BR (Real) em:
 
 <h2> 🔵 Imagens do Projeto</h2>
 
-![image](https://user-images.githubusercontent.com/37275221/127364816-2c697ae5-9aaa-408e-bd68-66984eac2725.png)
+![image](https://user-images.githubusercontent.com/37275221/127366758-105a3471-3dc0-45a1-b7d4-0bde3f867492.png)
 
 
 
