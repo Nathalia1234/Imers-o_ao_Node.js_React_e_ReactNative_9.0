@@ -10,9 +10,9 @@
 ![image](https://user-images.githubusercontent.com/37275221/125127956-b2f42c80-e0d3-11eb-9d38-619abc7148ce.png) 
 
 
-<h2>Softwares</h2>
+<h2>IDE / Editor de código </h2>
 
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
+![image](https://user-images.githubusercontent.com/37275221/127346661-b2b51a03-8e4c-4788-a691-7554cf58948f.png)
 
 <h2> Linguagem </h2>
 
