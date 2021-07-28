@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a> Simplifica Excel </a>
+  <a> Conversor de moeda em Python </a>
 </h1>
 
-<p align="center"> Curso gratuito e online. </p>
+
 
 
 <h2>Sistema Operacional</h2>
@@ -12,36 +12,29 @@
 
 <h2>Softwares</h2>
 
-![image](https://user-images.githubusercontent.com/37275221/125643017-2a18e02a-354c-482f-88f3-7e531abba060.png)
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
 
+<h2> Linguagem </h2>
+
+![image](https://user-images.githubusercontent.com/37275221/127339559-86d42197-0534-49ea-8325-613108cce4f2.png)
+
+<br>
 
 
 🏁 Tópicos
 =================
  <!--ts-->
   ➡️ [Sobre](#Sobre)
-
-
-  ➡️ [Software Utilizado](#software)
-<!--te-->
-
-
+  
+  ➡️ [Imagens do Projeto](#ImgDoProj)
 
 <br>
-<h2> 🔵 <a href="#Sobre"></a>Sobre</h2>
-<p>Curso Simplifica Excel Gratuito:</p>
-- [ ] Aula 01: Saindo do Zero e tendo Produtividade no Excel.<br>
-- [ ] Aula 02: Análise e Tratamento de Dados.<br>
-- [ ] Aula 03: Informações e Dashboards Profissionais.<br>
-- [ ] Aula 04: Fórmulas e Recursos Essenciais de Mercado de Trabalho.
 
 
 
+<h2> 🔵 Sobre </h2>
 
-
-<h2> 🔵 <a href="#software"></a>Software Utilizado</h2>
-
-- [Microsoft Excel](https://www.microsoft.com/pt-br/microsoft-365/excel)
+Projeto simples onde demonstro como converter moedas BR (Brasileira ) em USD (Dólar) na linguagem python. 
 
 
 <h2> 🔵 Imagens do Projeto</h2>
